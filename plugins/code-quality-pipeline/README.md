@@ -19,7 +19,7 @@ Two complementary gates:
 ## Install
 
 ```
-/plugin marketplace add RonMizrahi/claude-plugins
+/plugin marketplace add RonMizrahi/claude-code-quality-pipeline
 /plugin install code-quality-pipeline@ron-mizrahi
 ```
 
@@ -43,6 +43,8 @@ Anthropic's official marketplace or built into Claude Code — so nothing here i
 
 `security-review` (step 3) is a built-in Claude Code command — nothing to install. Any missing
 tool means that step is skipped and reported as skipped — never silently passed.
+
+See [INSTALL.md](./INSTALL.md) for the step-by-step dependency install guide.
 
 ## License
 

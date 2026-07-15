@@ -9,7 +9,7 @@ Marketplace name: **`ron-mizrahi`**
 ## Install
 
 ```
-/plugin marketplace add RonMizrahi/claude-plugins
+/plugin marketplace add RonMizrahi/claude-code-quality-pipeline
 /plugin install code-quality-pipeline@ron-mizrahi
 ```
 
