@@ -44,7 +44,7 @@ Anthropic's official marketplace or built into Claude Code — so nothing here i
 `security-review` (step 3) is a built-in Claude Code command — nothing to install. Any missing
 tool means that step is skipped and reported as skipped — never silently passed.
 
-See [INSTALL.md](./INSTALL.md) for the step-by-step dependency install guide.
+See [INSTALL.md](./skills/code-quality-pipeline/references/INSTALL.md) for the step-by-step dependency install guide.
 
 ## License
 
